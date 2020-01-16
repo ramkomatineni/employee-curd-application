@@ -1,2 +1,2 @@
-# employee-curd-application
-CURD operations on employee data with jsp, spring MVC, JDBC Template and mySql database  
+# Video Streaming backend java service 
+Aiming to buid a content pulling service in java from different systems 
